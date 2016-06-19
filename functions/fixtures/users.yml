@@ -4,7 +4,7 @@ users:
   emails:
   - jcalabrese@pivotal.io
   orgs:
-    - name: org1 
+    - name: org1
       roles:
       - managers
       - auditors
