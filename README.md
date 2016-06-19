@@ -2,7 +2,7 @@
 
 
 ## Problem
-When cf integrates with ldap. Currently cloudfoundry does not have any way to assgin user roles (E.g. org and space). So user has to login to the CF env first, then operator assign the roles to them. When they login again, users can see the spaces.
+When cf integrates with ldap. Currently cloudfoundry does not have any way to assign user roles (e.g. org and space). So user has to login to the CF env first, then operator assign the roles to them. When they login again, users can see the spaces.
 
 This may not be applicable for the invitation model for operators, since they have to ask users to login first
 
