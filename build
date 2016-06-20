@@ -1,0 +1,5 @@
+#/bin/bash
+
+#cf uninstall-plugin uaaldapimport
+godep go build -o uaaldap-plugin .
+cf install-plugin uaaldap-plugin
