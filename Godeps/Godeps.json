@@ -3,6 +3,11 @@
 	"GoVersion": "go1.6",
 	"Deps": [
 		{
+			"ImportPath": "github.com/cloudfoundry/cli/plugin",
+			"Comment": "v6.19.0-51-g2b703c4",
+			"Rev": "2b703c49a778dee795f0066fad356bab80e65c8a"
+		},
+		{
 			"ImportPath": "github.com/cloudfoundry-incubator/trace-logger",
 			"Rev": "24964ef4dbb527a373d4db141cbbd41eb21a56f9"
 		},
